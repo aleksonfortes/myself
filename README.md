@@ -28,8 +28,8 @@ If I describe myself, it is:
 
 If I describe my ideal team, it is:
 
-- My team cares and have ownership about quality
-- My team have ownership about the product we develop
+- My team cares and has ownership about quality
+- My team has ownership about the product we develop
 - My team believes QA is everyone's responsability
 - My team cares about end-users and not only about their jobs
 - My team practices continuous improvement - always trying to find opportunities to improve what we do
