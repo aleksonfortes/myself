@@ -13,6 +13,7 @@ If I describe myself, it is:
 - I am here to evolve in life as a person
 - I am here to evolve in my work as a professional
 - I am not perfect and I always try to improve on what I need to improve
+- English is not my first language, I appreciate when someone helps me to improve it
 - Feel free to help me with the points above
 - I prefer listening more than talking
 - I started as a QA Tester in 2010, since then I specialized in this area
