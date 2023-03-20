@@ -23,6 +23,7 @@ If I describe myself, it is:
 - I created a tool that helps to identify where we are in terms of maturity level. Read more [here](./MaturityModel.pdf)
 - I can help to define a [Quality Vision](http://web.archive.org/web/20220502072012/https://www.square-enix-montreal.com/en/how-we-defined-the-quality-vision-of-our-central-services/)
 - I can help to automate tests, especially UI e2e tests
+- I love ATDD - Acceptance Test Driven Development, and I can help to adopt it
 
 
 ## My expectations about my team:
