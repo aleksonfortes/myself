@@ -1,7 +1,3 @@
-# Alekson Readme
-
-## What is this?
-
 Hello!
 
 This is my READ.ME, I have taken inspiration for this document from various references found on the internet (see references). This read me is a convenient way to introduce myself and how I like to work.
