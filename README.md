@@ -64,6 +64,8 @@ If I describe my ideal leader for the person who is leading me, it is:
 - Scrum: The Art of Doing Twice the Work in Half the Time (https://a.co/d/2SLpskJ)
 - Learning Agile: Understanding Scrum, XP, Lean, and Kanban (https://a.co/d/dzktAKG)
 - The Kaizen way: One Small Step Can Change Your Life (https://a.co/d/dB9YP7p)
+- Agile Project Management with Kanban (https://a.co/d/8xQzbtO)
+- INSPIRED: How to Create Tech Products Customers Love (https://a.co/d/7buqzR9) - Reading now
 - Kanban: Successful Evolutionary Change for Your Technology (https://a.co/d/arv5DYS) - To finish
 - Clean Code: A Handbook of Agile Software Craftsmanship (https://a.co/d/arv5DYS) - To finish
 - Software Craftsman, The: Professionalism, Pragmatism, Pride (https://a.co/d/1TzEa5A) - To finish
